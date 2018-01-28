@@ -40,4 +40,3 @@ Simple blockchain with cryptocurrency implemented in JS for learning purpose.
   - Шифрование, майнинг и работа с блоками - 1 человек
   - Работа с сетью на frontend - 1 человек
 
-Расчетное время разработки MVP 4 часа.
